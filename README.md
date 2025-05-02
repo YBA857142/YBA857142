@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Po-An Yu, a senior student in NTUEE. I am learning skills including:
+- Simulation: Verilog / Matlab / SPICE / Virtuoso
+- Programming: C++ / Python / Typescript
+- Hardware: Arduino / ESP32 / RPi / Oscilloscope
+- Tools: Git / Latex / Linux
+- Others: Laser cutting / Soldering / 3D printing
+
+Here's what I've done before:
+- MakeNTU Leader of Machine and Material Team (Sep 2023 - May 2024)
+- Member of NTUEESAAD (Sep 2023 - June 2024)
+- Online Platform of Makerspace Developer (July 2023 - Aug 2024)
+- MakeNTU Machine Reservation Platform Developer  (Dec 2023 - May 2024)
+- NTUEE Lightdance (Oct 2023 - Mar 2024)
